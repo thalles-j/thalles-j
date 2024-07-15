@@ -10,3 +10,4 @@ Information Systems Student.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalles-j&layout=compact)
 
 ### Passionate about technology, education and changing people's lives through programming.
+
